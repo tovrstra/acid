@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2026 ACID Contributors <https://doi.org/10.5281/zenodo.15722902>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
-cff-version: 2.0.0
+cff-version: 1.2.0
 message: If you use this software, please cite it using these metadata.
 title: The AutoCorrelation Integral Drill (ACID) 2 -- Dataset
 abstract: >-
